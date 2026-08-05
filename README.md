@@ -10,5 +10,5 @@
 ## Install
 
 ```bash
-curl -o ~/.tmux.conf https://raw.githubusercontent.com/USER/tmux.config/main/.tmux.conf
+curl -o ~/.tmux.conf https://raw.githubusercontent.com/chaseungjoon/tmux.config/main/.tmux.conf
 ```
