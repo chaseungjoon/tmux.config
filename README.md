@@ -2,9 +2,12 @@
 
 ## Ultra-minimal setup for transparent terminal
 
+<img width="721" height="161" alt="image" src="https://github.com/user-attachments/assets/d9364051-f769-4e2d-aa53-c18f091c58aa" />
+
 - No Plugins
 
-## Automatic setup
+## Install
 
-### `ai_env.sh` : AI development environment setup
-  - Requires [neovim](https://github.com/neovim/neovim), [Copilot CLI](https://github.com/github/copilot-cli), [lazygit](https://github.com/jesseduffield/lazygit), [btop](https://github.com/aristocratos/btop), [wandb](https://github.com/wandb/wandb)
+```bash
+curl -o ~/.tmux.conf https://raw.githubusercontent.com/USER/tmux.config/main/.tmux.conf
+```
