@@ -5,7 +5,7 @@
 <img width="721" height="161" alt="image" src="https://github.com/user-attachments/assets/d9364051-f769-4e2d-aa53-c18f091c58aa" />
 
 - No Plugins
-- Prefix : Ctrl + c
+- Prefix : Ctrl + s
 
 ## Install
 
